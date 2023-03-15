@@ -14,6 +14,8 @@
             </div>
         </div>
     </div> -->
+    <?php $this->load->view('tampilan_user/carousel1.php')  ?>
+
     <div class="bottom-header">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
@@ -30,11 +32,30 @@
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="index-2.html">Home</a>
+                                            <!-- <a class="dropdown-item" href="catagory.html">Catagory</a>
+                                            <a class="dropdown-item" href="single-post.html">Single Post</a>
+                                            <a class="dropdown-item" href="about-us.html">About Us</a>
+                                            <a class="dropdown-item" href="contact.html">Contact</a> -->
                                         </div>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Politics</a>
                                     </li>
+                                    <!-- <li class="nav-item">
+                                        <a class="nav-link" href="#">Lifestyle</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">Travel</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">Health</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">Entertainment</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">sport</a>
+                                    </li> -->
                                 </ul>
 
                                 <!-- <div class="header-search-form mr-auto">
@@ -55,8 +76,10 @@
         </div>
     </div>
 </header>
+<!-- <?php $this->load->view('gadipake/carousel.php') ?> -->
 
-<?php $this->load->view('tampilan_user/carousel1.php')  ?>
+<!-- cari carousel biasa -->
+
 <div class="latest-news-area">
     <div class="simple-marquee-container">
         <div class="marquee">
@@ -77,7 +100,6 @@
         </div>
     </div>
 </div>
-
 
 
 <section class="main-content-wrapper section_padding_100">
