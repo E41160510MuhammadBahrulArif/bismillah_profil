@@ -42,17 +42,9 @@
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Politics</a>
                                     </li>
-                                </ul>
-                                <!-- <div class="header-search-form mr-auto">
-                                    <form action="#">
-                                        <input type="search" placeholder="Input your keyword then press enter..." id="search" name="search">
-                                        <input class="d-none" type="submit" value="submit">
-                                    </form>
-                                </div> -->
 
-                                <!-- <div id="searchbtn">
-                                    <i class="fa fa-search" aria-hidden="true"></i>
-                                </div> -->
+                                </ul>
+
                             </div>
                         </nav>
                     </div>

@@ -1,14 +1,9 @@
-<!-- <link rel="stylesheet" type="text/css" href="<?= base_url('assets/style.css') ?>"> -->
-<div class="navbar" style="color: black;">
-    <div class="container">
-        <div class="row justify-content-between">
-            <div class="col-sm d-flex mb-md-0 mb-2">
-                <div class="social-media">
-                    <p class="mb-0 d-flex">
-                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa-light  fa-user"><i class="fa-user"></i>sso</i></span></a>
-                    </p>
-                </div>
-            </div>
-        </div>
+<!-- Image and text -->
+<nav class="nabar navbar-light" style="background-color: #00b894; height: 24px; ">
+    <div class="navbar">
+        <a class="navbar-logo" href=" #">
+            <!-- <img src="<?= base_url('assets/img/sso/key-solid.svg') ?>" width="10" height="10" class="" alt="">
+            <small>sso</small> -->
+        </a>
     </div>
-</div>
+</nav>
