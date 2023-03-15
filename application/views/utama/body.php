@@ -42,23 +42,7 @@
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Politics</a>
                                     </li>
-                                    <!-- <li class="nav-item">
-                                        <a class="nav-link" href="#">Lifestyle</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Travel</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Health</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Entertainment</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">sport</a>
-                                    </li> -->
                                 </ul>
-
                                 <!-- <div class="header-search-form mr-auto">
                                     <form action="#">
                                         <input type="search" placeholder="Input your keyword then press enter..." id="search" name="search">

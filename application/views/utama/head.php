@@ -17,7 +17,10 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2JT8QH" height=0 width=0 style=display:none;visibility:hidden></iframe>
 
 <!-- carousel css -->
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 <!-- carousel css -->
 
 <script nonce="c3672007-94be-4676-9fe1-44d6326487ca">
