@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="<?= base_url('assets') ?>/style.css">
 <!-- <link href="css/responsive.css" rel="stylesheet"> -->
 <link href="<?= base_url('assets/css') ?>/responsive.css" rel="stylesheet">
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2JT8QH" height=0 width=0 style=display:none;visibility:hidden></iframe>
 
 <!-- carousel css -->
 
