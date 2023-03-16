@@ -1,21 +1,8 @@
 <header class="header-area">
     <?php $this->load->view('tampilan_user/topheader.php') ?>
-    <?php $this->load->view('gadipake/breakingnewsarea.php') ?>
+    <?php $this->load->view('tampilan_user/logo_namaman.php') ?>
 
-    <!-- <div class="middle-header">
-        <div class="container h-100">
-            <div class="row h-100 align-items-center">
-                <div class="col-6 col-md-3">
-                    <div class="logo-area">
-                        <a href="#"><img src="<?= base_url('assets/logo1') ?>/loman.png" alt="logo" height="80" width="80"></a>
-                        <a href="#" style="margin-left: 10px;"><img src="<?= base_url('assets/logo1') ?>/lobang.png" alt="logo " height="130" width="130"></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
 
-    <?php $this->load->view('tampilan_user/carousel1.php')  ?>
 
     <div class="bottom-header">
         <div class="container h-100">
@@ -53,7 +40,7 @@
         </div>
     </div>
 </header>
-<!-- <?php $this->load->view('gadipake/carousel.php') ?> -->
+<?php $this->load->view('tampilan_user/carousel1.php')  ?>
 
 <!-- cari carousel biasa -->
 

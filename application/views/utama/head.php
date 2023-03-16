@@ -7,16 +7,17 @@
 <title>MAN 1 MOJOKERTO</title>
 
 <!-- <link rel="icon" href="img/core-img/favicon.ico"> -->
-<link rel="icon" href="<?= base_url('assets/img/core-img') ?>/favicon.ico">
+<link rel="icon" href="<?= base_url('assets/logo1') ?>/loman.png">
 <!-- <link rel="stylesheet" href=" css/core-style.css"> -->
 <link rel="stylesheet" href="<?= base_url('assets/css') ?>/core-style.css">
 <!-- <link rel="stylesheet" href="style.css"> -->
-<link rel="stylesheet" href="<?= base_url('assets') ?>/style.css">
+<!-- <link rel="stylesheet" href="<?= base_url('assets') ?>/style.css"> -->
 <!-- <link href="css/responsive.css" rel="stylesheet"> -->
 <link href="<?= base_url('assets/css') ?>/responsive.css" rel="stylesheet">
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2JT8QH" height=0 width=0 style=display:none;visibility:hidden></iframe>
 
 <!-- carousel css -->
+
 <!-- carousel css -->
 
 <script nonce="c3672007-94be-4676-9fe1-44d6326487ca">
